@@ -1,0 +1,15 @@
+# Normalize text files
+* text=auto
+
+# Python should use LF internally
+*.py text eol=lf
+
+# CSV is textual
+*.csv text
+
+# Don't touch binaries
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.db binary

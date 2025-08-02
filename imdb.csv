@@ -1,0 +1,16 @@
+id,title,year,genre,rating,revenue,director,runtime,votes,description
+1,The Dark Knight,2008,"Action,Crime,Drama",9.0,1004558444,Christopher Nolan,152,2800000,Batman battles the Joker in this epic crime saga.
+2,Pulp Fiction,1994,"Crime,Drama",8.9,214179088,Quentin Tarantino,154,2100000,Interconnected stories of crime in Los Angeles.
+3,The Shawshank Redemption,1994,Drama,9.3,16000000,Frank Darabont,142,2700000,Hope and friendship in a prison setting.
+4,Inception,2010,"Action,Sci-Fi,Thriller",8.8,836836967,Christopher Nolan,148,2300000,Dreams within dreams in this mind-bending thriller.
+5,Forrest Gump,1994,"Drama,Romance",8.8,677387716,Robert Zemeckis,142,2000000,Life story of a simple man with extraordinary experiences.
+6,The Matrix,1999,"Action,Sci-Fi",8.7,463517383,The Wachowskis,136,1900000,Reality vs simulation in this groundbreaking sci-fi film.
+7,Goodfellas,1990,"Biography,Crime,Drama",8.7,46836394,Martin Scorsese,146,1100000,Rise and fall of a mob associate.
+8,The Godfather,1972,"Crime,Drama",9.2,245066411,Francis Ford Coppola,175,1800000,The saga of a powerful crime family.
+9,Schindler's List,1993,"Biography,Drama,History",9.0,322161549,Steven Spielberg,195,1400000,A German industrialist saves lives during the Holocaust.
+10,Interstellar,2014,"Adventure,Drama,Sci-Fi",8.6,701729206,Christopher Nolan,169,1800000,A journey through space and time to save humanity.
+11,Avatar,2009,"Action,Adventure,Fantasy",7.9,2923706026,James Cameron,162,1300000,Alien world adventure with groundbreaking visuals.
+12,Titanic,1997,"Drama,Romance",7.9,2257844554,James Cameron,194,1200000,Epic romance aboard the doomed ship.
+13,The Avengers,2012,"Action,Adventure,Sci-Fi",8.0,1518815515,Joss Whedon,143,1400000,Superheroes unite to save the world.
+14,Jurassic Park,1993,"Adventure,Sci-Fi,Thriller",8.2,1046565812,Steven Spielberg,127,1000000,Dinosaurs brought back to life through genetic engineering.
+15,The Lion King,1994,"Animation,Adventure,Drama",8.5,968483777,Roger Allers,88,1100000,Young lion's journey to become king.
